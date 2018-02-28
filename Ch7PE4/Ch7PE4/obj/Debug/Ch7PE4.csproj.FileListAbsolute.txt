@@ -1,0 +1,7 @@
+C:\Users\burtonc1\source\repos\Ch7PE4\Ch7PE4\bin\Debug\Ch7PE4.exe.config
+C:\Users\burtonc1\source\repos\Ch7PE4\Ch7PE4\bin\Debug\Ch7PE4.exe
+C:\Users\burtonc1\source\repos\Ch7PE4\Ch7PE4\bin\Debug\Ch7PE4.pdb
+C:\Users\burtonc1\source\repos\Ch7PE4\Ch7PE4\obj\Debug\Ch7PE4.csprojResolveAssemblyReference.cache
+C:\Users\burtonc1\source\repos\Ch7PE4\Ch7PE4\obj\Debug\Ch7PE4.csproj.CoreCompileInputs.cache
+C:\Users\burtonc1\source\repos\Ch7PE4\Ch7PE4\obj\Debug\Ch7PE4.exe
+C:\Users\burtonc1\source\repos\Ch7PE4\Ch7PE4\obj\Debug\Ch7PE4.pdb
