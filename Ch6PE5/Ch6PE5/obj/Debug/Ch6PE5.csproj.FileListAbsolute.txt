@@ -1,0 +1,6 @@
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE5\Ch6PE5\bin\Debug\Ch6PE5.exe.config
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE5\Ch6PE5\bin\Debug\Ch6PE5.exe
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE5\Ch6PE5\bin\Debug\Ch6PE5.pdb
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE5\Ch6PE5\obj\Debug\Ch6PE5.csprojResolveAssemblyReference.cache
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE5\Ch6PE5\obj\Debug\Ch6PE5.exe
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE5\Ch6PE5\obj\Debug\Ch6PE5.pdb
