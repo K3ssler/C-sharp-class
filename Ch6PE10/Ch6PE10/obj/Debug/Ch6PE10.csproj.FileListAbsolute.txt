@@ -1,0 +1,5 @@
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE10\Ch6PE10\bin\Debug\Ch6PE10.exe.config
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE10\Ch6PE10\bin\Debug\Ch6PE10.exe
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE10\Ch6PE10\bin\Debug\Ch6PE10.pdb
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE10\Ch6PE10\obj\Debug\Ch6PE10.exe
+c:\users\cburt_000\documents\visual studio 2015\Projects\Ch6PE10\Ch6PE10\obj\Debug\Ch6PE10.pdb
