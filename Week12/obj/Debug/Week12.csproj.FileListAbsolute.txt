@@ -1,0 +1,7 @@
+C:\Users\burtonc1\source\repos\Week12\Week12\bin\Debug\Week12.exe.config
+C:\Users\burtonc1\source\repos\Week12\Week12\bin\Debug\Week12.exe
+C:\Users\burtonc1\source\repos\Week12\Week12\bin\Debug\Week12.pdb
+C:\Users\burtonc1\source\repos\Week12\Week12\obj\Debug\Week12.csprojResolveAssemblyReference.cache
+C:\Users\burtonc1\source\repos\Week12\Week12\obj\Debug\Week12.csproj.CoreCompileInputs.cache
+C:\Users\burtonc1\source\repos\Week12\Week12\obj\Debug\Week12.exe
+C:\Users\burtonc1\source\repos\Week12\Week12\obj\Debug\Week12.pdb
