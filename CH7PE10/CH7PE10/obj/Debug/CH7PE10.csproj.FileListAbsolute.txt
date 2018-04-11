@@ -1,0 +1,2 @@
+c:\users\cburt_000\documents\visual studio 2015\Projects\CH7PE10\CH7PE10\bin\Debug\CH7PE10.exe.config
+c:\users\cburt_000\documents\visual studio 2015\Projects\CH7PE10\CH7PE10\obj\Debug\CH7PE10.csprojResolveAssemblyReference.cache
