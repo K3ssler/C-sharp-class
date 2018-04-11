@@ -1,0 +1,6 @@
+c:\users\cburt_000\documents\visual studio 2015\Projects\CH8PE4\CH8PE4\bin\Debug\CH8PE4.exe.config
+c:\users\cburt_000\documents\visual studio 2015\Projects\CH8PE4\CH8PE4\bin\Debug\CH8PE4.exe
+c:\users\cburt_000\documents\visual studio 2015\Projects\CH8PE4\CH8PE4\bin\Debug\CH8PE4.pdb
+c:\users\cburt_000\documents\visual studio 2015\Projects\CH8PE4\CH8PE4\obj\Debug\CH8PE4.csprojResolveAssemblyReference.cache
+c:\users\cburt_000\documents\visual studio 2015\Projects\CH8PE4\CH8PE4\obj\Debug\CH8PE4.exe
+c:\users\cburt_000\documents\visual studio 2015\Projects\CH8PE4\CH8PE4\obj\Debug\CH8PE4.pdb
